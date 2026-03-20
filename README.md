@@ -1,14 +1,16 @@
 # PowerBI-SV
 Power BI Projects
 
-[Car Insurance Project]
+[Movie Lenses: This Movie Lenses project is of movie facts based on 1 million movie records.
+In power query editor worked with features like conditional column, transpose, custom column, merged queries.Implemented Page navigation to move form one page to another. Also implemented Bookmarks to display tree chart for genres and movie categories with button click.
+Data is modeled by star schema. I designed power Bi report consisting of 3 pages. All pages displays basic movie facts which are used in reporting and also three slicers of occupation, gender, year for filtering data. Page1 
+Created many measures by using DAX functions like CALCULATE, GROUPBY, DSITINCTCOUNT, SWITCH, DIVIDE, AVERAGE
+I implemented grouping of movie year and genres on movies data.]
 
-https://app.powerbi.com/groups/me/reports/a519bd0b-56dd-4a7b-b1ae-8c9241bbdfb7/63ff83e280ba0bb9bc09?experience=power-bi
+https://app.powerbi.com/groups/me/reports/f2b6f2d7-7ecf-497d-b7d5-fb004c4db1df/1d83950ba8e7e8815cd6?experience=power-bi
 
-[Car Insurance Report Images]
-<img width="1681" height="788" alt="image" src="https://github.com/user-attachments/assets/9b1a887e-173a-4bd1-8f03-039e5602d7e0" />
-<img width="1690" height="782" alt="image" src="https://github.com/user-attachments/assets/2376d09a-e080-4724-ac77-22d2894d563a" />
-<img width="1677" height="802" alt="image" src="https://github.com/user-attachments/assets/d7bb5ff7-25ab-4e0d-9c9b-b6f16028498e" />
-<img width="1702" height="786" alt="image" src="https://github.com/user-attachments/assets/4548e2f6-fae6-467c-ba0c-e60339ea054b" />
-<img width="1697" height="791" alt="image" src="https://github.com/user-attachments/assets/db82e8b6-19fa-43af-96be-df54a830f003" />
-<img width="1455" height="747" alt="image" src="https://github.com/user-attachments/assets/c502fe2e-7d3c-4da5-928c-f66bab0b070b" />
+[Movie Lenses]
+<img width="1237" height="675" alt="MovieLenses Page1" src="https://github.com/user-attachments/assets/1ba5bf8a-af04-44a1-b1e8-8ef96b7717de" />
+<img width="1462" height="742" alt="Movie Lenses Page2" src="https://github.com/user-attachments/assets/54e4d028-fc40-465d-881f-85d53e77ce71" />
+<img width="1273" height="687" alt="Movie Lenses Page3" src="https://github.com/user-attachments/assets/a5abbbec-2ee3-4155-b88a-89b4e6cf2aaa" />
+
