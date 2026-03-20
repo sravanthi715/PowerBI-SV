@@ -29,9 +29,3 @@ https://app.powerbi.com/groups/me/reports/7eb9c7ec-f6b1-4493-a5f1-7e27e5474f82/7
 
 <img width="1302" height="727" alt="image" src="https://github.com/user-attachments/assets/85bde18b-e7c3-4bf6-86e8-a0751f5c7c73" />
 
-
-### View the Report
-[Click here to view the interactive report](https://app.powerbi.com/...)
-
-![Credit Defaulters Analysis Dashboard](...)
-
