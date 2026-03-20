@@ -20,7 +20,7 @@ A comprehensive Power BI report to analyze credit defaulter patterns across mult
 - DIVIDE
 - SUM
 - COUNT
-- 
+  
 ### Dashnoard Link
 
 https://app.powerbi.com/groups/me/reports/7eb9c7ec-f6b1-4493-a5f1-7e27e5474f82/77cc8b4a4688d2338ec9?experience=power-bi
